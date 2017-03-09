@@ -1,5 +1,5 @@
 ## 欢迎访问ObrienHuang个人博客
-Welcome to visit ObrienHuang Personel blogs
+Welcome to visit ObrienHuang Personal blogs
 
 ### Markdown
 
