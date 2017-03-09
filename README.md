@@ -24,4 +24,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-e-mail:ObrienHuang@outlook.com
+E-Mail:[Link](ObrienHuang@outlook.com)
